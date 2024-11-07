@@ -37,4 +37,6 @@
 
 ---
 
-#### Thanks for stopping by! 🚀 Let's connect and talk about DevOps, self-hosting, or anything tech! ✨
+#### Thanks for stopping by! 🚀
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=alexxasO&countColor=%23263759)
