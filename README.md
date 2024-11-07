@@ -4,6 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexxasO&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxasO&layout=compact&theme=dark)
+![Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=alexxaso&theme=dark)
 
 ---
 
