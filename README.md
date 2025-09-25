@@ -11,11 +11,6 @@
 ### 🚀 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [Issue #123](https://github.com/alexxasO/repo-name/issues/123) in repo-name
-2. 🎉 Merged PR [#456](https://github.com/alexxasO/repo-name/pull/456) in repo-name
-3. 💪 Opened PR [#789](https://github.com/alexxasO/repo-name/pull/789) in repo-name
-4. 💪 Opened PR [#789](https://github.com/alexxasO/repo-name/pull/789) in repo-name
-5. 💪 Opened PR [#789](https://github.com/alexxasO/repo-name/pull/789) in repo-name
 <!--END_SECTION:activity-->
 
 ---
